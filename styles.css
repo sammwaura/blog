@@ -1,68 +1,7 @@
-#wrapper{
-  background-color: pink;
-  margin: 0px;
-  padding: 0px;
-  border: 0px;
-  display: block;
-}
+#container{
+  height:40px;
+  width:100px;
+  background-color: blue; 
 
-#header{
-  height:500px;
-  background-color: red;
-  background: url(../images/Wifey.jpg);
-  margin: 0px;
-  padding: 0px;
-  border: 0px;
-  overflow: hiden;
-
-
-}
-
-html, body {
- margin: 0px;
- padding: 0px;
- border: 0px;
- }
-
- .content{
-   width:100%;
-   background-color: white;
-
- }
-
-  .content-wrapper{
-   width: 70%;
-   height:1000px;
-   background-color: white;
-   margin: auto;
-   margin-top: 30px;
- }
-
- .content-item{
-   background-color: transparent;
-   float: left;
-   height:40%;
-   width:50%;
- }
-
- #first-image{
-  width: 200px;
-  height:100px;
-  background-color: white;
-  margin:auto;
-  margin-top:20px;
-position: relative;
-box-shadow: 1px 0px 6px 5px rgba(87,84,87,0.63);
-}
-
-
-#imgtop{
-  width:50%;
-   height:30%;
-}
-
-#text-container{
-  width: 70%;
-padding-left:5%;
 }
 
